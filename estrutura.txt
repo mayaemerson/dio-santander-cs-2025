@@ -1,0 +1,30 @@
+.
+├── estrutura.txt
+├── images
+│   ├── kali
+│   │   ├── arquivosteste.png
+│   │   ├── echopass.png
+│   │   ├── echouser.png
+│   │   ├── enumeracao.png
+│   │   ├── ftp6.png
+│   │   ├── ipakalin.png
+│   │   ├── kaliapd1.png
+│   │   ├── pingtester.png
+│   │   ├── wordlistpass.png
+│   │   └── wordpass.png
+│   ├── lab
+│   │   └── vms.png
+│   ├── metasploitable
+│   │   ├── ipa.png
+│   │   ├── metaadapt1.png
+│   │   └── snapshot.png
+│   └── virtualbox
+│       └── virtualboxrede.png
+├── README.md
+├── .vscode
+│   └── settings.json
+└── wordlists
+    ├── pass.txt
+    └── users.txt
+
+8 directories, 20 files
